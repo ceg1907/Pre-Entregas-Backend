@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Nombre del articulo Numero 1",
+    "description": "Descripción del articulo Numero 1",
+    "price": 1500,
+    "category": "Procesadores",
+    "stock": 15,
+    "thumbnails": ["ARTICULO-1.jpg", "ARTICULO-2.jpg"],
+    "id": 1,
+    "code": "ART0001",
+    "status": true
+  },
+  {
+    "title": "Nombre del articulo Numero 1 Actualizado",
+    "description": "Descripción del articulo Numero 1",
+    "price": 3000,
+    "category": "Procesadores",
+    "stock": 12,
+    "thumbnails": ["ARTICULO-1.jpg", "ARTICULO-2.jpg"],
+    "id": 2,
+    "code": "ART0001",
+    "status": true
+  }
+]
